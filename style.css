@@ -1,1 +1,30 @@
 
+h1{
+   color:red; 
+   background-color: gray;
+}
+p{
+color:black;
+   background-color: yellow;
+   }
+h2{
+color:yellow;
+   background-color: aqua;
+}
+   <style>
+  
+    
+    div{
+    color:red;
+    margin:20px;
+}
+
+p{
+    font-weight:bold;
+}
+
+li{
+    font-weight:bold;
+
+}
+  </style>
