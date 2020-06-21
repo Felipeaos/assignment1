@@ -1,15 +1,15 @@
 
 h1{
-   color:red; 
-   background-color: gray;
+   color:white; 
+   background-color: black;
 }
 p{
 color:black;
-   background-color: yellow;
+   background-color: white;
    }
 h2{
 color:yellow;
-   background-color: aqua;
+   background-color: blue;
 }
    <style>
   
