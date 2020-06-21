@@ -2,7 +2,7 @@
 h1{
    color: orange; 
    background-color: black;
-   font-size: 40px;
+   font-size: 24px;
    text-decoration: underline;
    font-family: arial;
    text-align: center;
@@ -25,18 +25,21 @@ color:black;
    font-size: 16px;
    font-family: arial;
 }
-
-  
+ul{
+   border-width: 2px;
+   border-style: solid;
+   border-color: black;
     
     div{
     color:red;
     margin:20px;
+       border-width: 1px;
+       border-style: solid;
 }
 
 
 
 li{
     font-weight:bold;
-
 }
 
