@@ -6,7 +6,7 @@ h1{
    text-decoration: underline;
    font-family: arial;
    text-align: center;
-   text-shadow: 2px 2px color: lightgray;
+   text-shadow: 2px 2px #E9E9E9;
 }
 p{
 color:black;
