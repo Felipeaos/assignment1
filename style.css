@@ -7,6 +7,8 @@ h1{
    font-family: arial;
    text-align: center;
    text-shadow: 2px 2px #E9E9E9;
+   letter-spacing: 2px;
+   word-spacing: 10px;
 }
 p{
 color:black;
