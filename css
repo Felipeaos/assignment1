@@ -1,4 +1,4 @@
-    <style>
+ 
 h1{
    color:red; 
    background-color: gray;
@@ -11,7 +11,8 @@ h2{
 color:yellow;
    background-color: aqua;
 }
-    </style>
+   <style>
+  
     
     div{
     color:red;
@@ -26,3 +27,4 @@ li{
     font-weight:bold;
 
 }
+  </style>
