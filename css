@@ -1,9 +1,15 @@
     <style>
 h1{
    color:red; 
+   background-color: gray;
 }
 p{
-color:rgb(252, 82, 252);
+color:black;
+   background-color: yellow;
+   }
+h2{
+color:yellow;
+   background-color: aqua;
 }
     </style>
     
